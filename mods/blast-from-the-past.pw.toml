@@ -1,0 +1,13 @@
+name = "Blast from the Past"
+filename = "blastfromthepast-1.0.6+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UAhT844S/versions/OU69vNKP/blastfromthepast-1.0.6%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "0228a70ac92f76dccbc0e8971fcccf63f1ebcf015e44a0722415c6186a6029ab6e0a6391b4b86fa3580297193547b82ece11c7984fa1b612cc776cc2dee73aea"
+
+[update]
+[update.modrinth]
+mod-id = "UAhT844S"
+version = "OU69vNKP"

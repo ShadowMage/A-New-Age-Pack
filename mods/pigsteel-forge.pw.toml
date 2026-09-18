@@ -1,0 +1,13 @@
+name = "Pigsteel [Forge]"
+filename = "pigsteel-1.21.1-7.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ryf1vBDR/versions/1cuzu6qx/pigsteel-1.21.1-7.1.0.jar"
+hash-format = "sha512"
+hash = "ba3c298d3a4636e4544bb7d6d1b3fc2589ca2f8507158fdfaf87da539a4704e8ef0f00b864d90d43d8b243ef09a1785fb3570b8574e0e2219ab5431bd40736db"
+
+[update]
+[update.modrinth]
+mod-id = "ryf1vBDR"
+version = "1cuzu6qx"
