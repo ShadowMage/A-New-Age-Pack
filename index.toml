@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "17a19b546170937c6c676c026b1cd80909ac7ac4fe70b1830ce37b9c72585085"
+hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
-hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
+hash = "71651e89e2a5c63ecb5e64ae79cc20b8cd37b03ce9210997443b7d64c98cdd52"
 metafile = true
 
 [[files]]
@@ -326,11 +326,6 @@ hash = "874e0507df3904493fa3a4c06ba76cff9c5b7334fafbf8be5ca328a85c709a1c"
 metafile = true
 
 [[files]]
-file = "mods/illuminated.pw.toml"
-hash = "c045dc9681da3ae49ffe0e511bd2093d35edc9708ada5dc83e321e76b640009b"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
 metafile = true
@@ -402,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "9356f583d65e6dc4fc343a7471e5153785ad2b346de05b6970e36cf3e50b76f1"
+hash = "e95a7c54f936eda33a548766784f806aef2195204864a79e8535ce132c94e0f1"
 metafile = true
 
 [[files]]
@@ -532,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
 metafile = true
 
 [[files]]
