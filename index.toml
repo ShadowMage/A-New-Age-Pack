@@ -326,6 +326,11 @@ hash = "874e0507df3904493fa3a4c06ba76cff9c5b7334fafbf8be5ca328a85c709a1c"
 metafile = true
 
 [[files]]
+file = "mods/icys-better-horses.pw.toml"
+hash = "2e81f9a9cde62936a045974690dd54e8c1f2166751eaed37c00b4b5c0613c4c6"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
 metafile = true
