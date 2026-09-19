@@ -516,6 +516,11 @@ hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
@@ -563,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/pigsteel-forge.pw.toml"
 hash = "0002c4d011f27a71764e5f83676b98f6e1ff2f7b00b7ba7559677a8d43adbf25"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
 metafile = true
 
 [[files]]
@@ -626,6 +636,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
 metafile = true
@@ -683,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "afee8d508e5bee4073a0b328441e8948ade246e8fab109b988bd0bb2c5853175"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "fa20fcc5ccc407316719932b62a59b7caa6829c28c28b7fd149ea82aa838b68f"
 metafile = true
 
 [[files]]
