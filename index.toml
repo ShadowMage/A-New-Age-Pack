@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/obscuria/aquamirae-early.json"
+hash = "48d7cb1ed8ff2224a17840d28c3ebddc47bd355d46df2ef1eba7778cfffcc125"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "98ad272682eaa9ff39165f7290e7c3e6cde6042c2ae783f60984524122096588"
 metafile = true
