@@ -571,6 +571,11 @@ hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
 file = "mods/piglin-proliferation.pw.toml"
 hash = "edfd95f82d0044f24a8f02e61cd827f120fab42d44fec3abfff0f7c7a13be228"
 metafile = true
