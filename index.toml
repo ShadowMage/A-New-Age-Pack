@@ -581,6 +581,11 @@ hash = "0002c4d011f27a71764e5f83676b98f6e1ff2f7b00b7ba7559677a8d43adbf25"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "03c2188c7c5aa4407964fd3bb20074b52eb2adf8897c3a22897cc037446450ce"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
 metafile = true
