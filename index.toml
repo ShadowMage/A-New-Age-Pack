@@ -520,6 +520,11 @@ hash = "cf98a93ea429786de97d9d7b70c72468909e0b9d1799def65b7c29c419c8d362"
 metafile = true
 
 [[files]]
+file = "mods/nanny.pw.toml"
+hash = "ab679e747546640ac0847e424b4bed0f33218341145717c521ea8f1ca3206a95"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "398b6b94cf062416480b6ef3af25e15f30594a680079a9ed3a32236c110245d2"
 metafile = true
@@ -582,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/oreganized.pw.toml"
 hash = "3b92ea0762d4bd75c9760b52cf160f6f0934af919b5f61303c5aa6c1ad5d1d00"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "836ffb879311a16e620c05796513395a3b9009c7d27d84c5938f03add120bec6"
 metafile = true
 
 [[files]]
