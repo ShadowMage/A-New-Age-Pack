@@ -375,6 +375,11 @@ hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "58ed8e868a732911b326d45f10478dfd959b2717d720e1a60c8e1230f8bc1da2"
 metafile = true
@@ -630,6 +635,16 @@ hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
 metafile = true
 
 [[files]]
+file = "mods/rch-supplementaries-compat.pw.toml"
+hash = "8ebb23ea1093c4a9b4389164489dffcd9b2a44d27834392c60f94375d0ee864c"
+metafile = true
+
+[[files]]
+file = "mods/redomesticate.pw.toml"
+hash = "22d57fd6dda25bc073bd259942b628195236cc8926639b9168355ddd92f0eb3c"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
@@ -642,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
 metafile = true
 
 [[files]]
@@ -706,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "4fedb7d7f73ad04b2d5068e9a0a1f502c95e40d530d1072944434c887a7ee20e"
 metafile = true
 
 [[files]]

@@ -2,6 +2,11 @@ name = "Sound Physics Remastered"
 filename = "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 side = "both"
 
+[option]
+optional = true
+description = "Enables reverb and sound physics, including on voice chat. Leave disabled if you are sensitive to such noises."
+
+
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 hash-format = "sha512"
