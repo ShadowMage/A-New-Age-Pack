@@ -45,6 +45,11 @@ hash = "e6a467189e205ef2a715773dbafd48a6dadf67fa93d1493c32b694e44108d0a6"
 metafile = true
 
 [[files]]
+file = "mods/arcane-armor-trims.pw.toml"
+hash = "b8e2bf366c811213cae01381a58c3f1b9da1d252abc75b32d97a919bc5da97e7"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
@@ -210,6 +215,11 @@ hash = "e3211d7d54a7203a183ed3b453be5dd52d27f389dbef26dd7e769f20e1dea81f"
 metafile = true
 
 [[files]]
+file = "mods/deeper-and-darker-spellbooks.pw.toml"
+hash = "7c66a219b6fb84db40585c2527bea0693e8ddce427459cb4cb59e9014294a4d1"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
@@ -227,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons_delight.pw.toml"
 hash = "e408acb673d46cd11cfc66db1daa12c4e6154e5529f634d1a596982df7f2b617"
+metafile = true
+
+[[files]]
+file = "mods/eldritch-expansions.pw.toml"
+hash = "d760e65b8d86d594b89758d82351142fcd11e7a3981130253150e4f19515ee2b"
 metafile = true
 
 [[files]]
@@ -287,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+metafile = true
+
+[[files]]
+file = "mods/farmers-spell.pw.toml"
+hash = "11d6db205281c3341154dc46afb28050e06c60e940c0f142312c1b9bd4b058a0"
 metafile = true
 
 [[files]]
@@ -822,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/winds-spellbooks.pw.toml"
+hash = "e174ded612bdae826523460c671f0486e68b769007c41cb892fab4b22809ac02"
 metafile = true
 
 [[files]]

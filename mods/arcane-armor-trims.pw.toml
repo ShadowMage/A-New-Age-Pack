@@ -1,0 +1,13 @@
+name = "Arcane Armor Trims"
+filename = "arcanetrims-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6SP9ZP4/versions/2tUSg7UF/arcanetrims-1.0.0.jar"
+hash-format = "sha512"
+hash = "aef2af09d17aaa8643a0ff9d3a27095b9eff6dcb63ea5058a5e12f42644fa48abaa48be3bbd7a2eb992ec7400c9646c4e20dcc48e52cc362542b42c49891af7b"
+
+[update]
+[update.modrinth]
+mod-id = "E6SP9ZP4"
+version = "2tUSg7UF"
