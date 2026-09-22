@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/blast-from-the-past.pw.toml"
-hash = "430a98dd9b9f2f61c4996b5545ee00013f0fd3f83d2eeab788d36eca5918be53"
+hash = "eabadd28761e1301e9b5a9a9d0ff8599274d5faa764c3d31981f77758a5576e7"
 metafile = true
 
 [[files]]
