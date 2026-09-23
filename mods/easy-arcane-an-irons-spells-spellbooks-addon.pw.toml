@@ -1,0 +1,13 @@
+name = "Easy Arcane: An Iron's Spells 'n Spellbooks Addon"
+filename = "easy_arcane-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GLimtc0C/versions/MtNCLMOX/easy_arcane-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "fd2e93ce74f1055b5055e60cea828eda5a82b4547c0b2261de28481d5451e83a769945f8e9cc049b16678e36c56fa0dcc31c5dfaeeec57fc315a83e83858d680"
+
+[update]
+[update.modrinth]
+mod-id = "GLimtc0C"
+version = "MtNCLMOX"

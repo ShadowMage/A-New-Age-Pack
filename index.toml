@@ -205,6 +205,11 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
+file = "mods/data-essence.pw.toml"
+hash = "4f303a872b0d742cb2e5801238938655e5dc65b2597a6293e7251a298b3a4774"
+metafile = true
+
+[[files]]
 file = "mods/databank.pw.toml"
 hash = "f64659949843684d173c3eef1aa478950068088051f03965114df1f41488e7b2"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons_delight.pw.toml"
 hash = "e408acb673d46cd11cfc66db1daa12c4e6154e5529f634d1a596982df7f2b617"
+metafile = true
+
+[[files]]
+file = "mods/easy-arcane-an-irons-spells-spellbooks-addon.pw.toml"
+hash = "f90e6133cc610fb08ac7989848c0ba9d0e40c546e61ae7a6ab9e2269a1e1b706"
 metafile = true
 
 [[files]]
@@ -387,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
+metafile = true
+
+[[files]]
+file = "mods/immersive-gateways.pw.toml"
+hash = "5865844298fed75037e2ee2390263d4f0e2a90153931a44447337955bf0b586f"
 metafile = true
 
 [[files]]
@@ -695,6 +710,11 @@ hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
 metafile = true
 
 [[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "5fab72eb13ebef3ff647dca260303507326e572849289c09806b25b527037fca"
+metafile = true
+
+[[files]]
 file = "mods/rch-supplementaries-compat.pw.toml"
 hash = "8ebb23ea1093c4a9b4389164489dffcd9b2a44d27834392c60f94375d0ee864c"
 metafile = true
@@ -817,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "fa20fcc5ccc407316719932b62a59b7caa6829c28c28b7fd149ea82aa838b68f"
+metafile = true
+
+[[files]]
+file = "mods/tot-addon.pw.toml"
+hash = "591b5e3be515d6fc97a03e031ae90d0c74fab06cebaba23ddd6fbad104a90361"
 metafile = true
 
 [[files]]
