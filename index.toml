@@ -840,11 +840,6 @@ hash = "fa20fcc5ccc407316719932b62a59b7caa6829c28c28b7fd149ea82aa838b68f"
 metafile = true
 
 [[files]]
-file = "mods/tot-addon.pw.toml"
-hash = "591b5e3be515d6fc97a03e031ae90d0c74fab06cebaba23ddd6fbad104a90361"
-metafile = true
-
-[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "1fcfa3a7239f5219c405f946e2dc8ac24d43f595f700a71248dbc2662505ba85"
 metafile = true
