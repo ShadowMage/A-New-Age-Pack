@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/blast-from-the-past.pw.toml"
-hash = "eabadd28761e1301e9b5a9a9d0ff8599274d5faa764c3d31981f77758a5576e7"
+hash = "8eb9aad9e09ae46614123739f6ffb209f72f13efdadcf3b234858f8b3a84c012"
 metafile = true
 
 [[files]]
@@ -847,6 +847,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "fa20fcc5ccc407316719932b62a59b7caa6829c28c28b7fd149ea82aa838b68f"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]
