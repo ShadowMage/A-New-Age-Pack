@@ -930,6 +930,11 @@ hash = "45eacb077412e52f365954d9fb8ddd58585eba1db841aacec84223e6cb0da28f"
 metafile = true
 
 [[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "46069ad081cfd2d618704d060aca18241a3022c5f1b9afd3855f92bddb79567c"
+metafile = true
+
+[[files]]
 file = "mods/wab.pw.toml"
 hash = "87ab56dd79c9fa242850606dd300d735592d45f36727fd00d636194f0b908656"
 metafile = true
